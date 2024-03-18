@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## 🔭 I’m currently working on...
-a **calculator** built with HTML, CSS and vanilla JavaScript.
+A **calculator** built with HTML, CSS and vanilla JavaScript.
 
 ## 🌱 I’m currently learning...
 Array methods through Execute Program's course and looking to improve my Git skills.
